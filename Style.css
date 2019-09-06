@@ -7,8 +7,6 @@ h1 {
    background-color: White;
    border: 1px solid black; 
    text-decoration: underline;
-   
-  
   }
   
  h2 {
@@ -30,8 +28,7 @@ img {
   }
   
 ul {
-   margin-top: 1em;
-   
+   margin-top: 1em;  
 }
  
   
