@@ -6,21 +6,22 @@ h1 {
    color: black; 
    background-color: White;
    border: 1px solid black; 
-   text-decoration: underline 
+   text-decoration: underline;
    
   
   }
   
  h2 {
      color: black;
-     text-decoration: underline
+     text-decoration: underline;
  } 
    
- p { font-family: arial; 
-     font-size: 17px; }
+ p { 
+    font-family: arial; 
+    font-size: 17px; 
+}
 
-
-  img {
+img {
       max-width: 100%;
       width: 200px;
       display: float;
