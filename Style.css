@@ -20,12 +20,12 @@ h1 {
 }
 
 img {
-      max-width: 100%;
-      width: 200px;
-      display: float;
-      float: left;
-      margin-right: 1em;
-  }
+   max-width: 100%;
+   width: 200px;
+   display: float;
+   float: left;
+   margin-right: 1em;
+}
   
 ul {
    margin-top: 1em;  
